@@ -1,0 +1,6 @@
+@URAuth_HostAddress = http://localhost:5069
+
+GET {{URAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
